@@ -1,0 +1,4 @@
+pywin32==224
+requests==2.19.1
+pyperclip==1.7.0
+urllib3==1.25.8
