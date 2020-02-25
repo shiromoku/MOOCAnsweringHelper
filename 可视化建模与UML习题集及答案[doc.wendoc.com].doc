@@ -1,0 +1,569 @@
+{\rtf1\adeflang1025\ansi\ansicpg936\uc2\adeff0\deff0\stshfdbch13\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe2052{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f13\fnil\fcharset134\fprq2{\*\panose 02010600030101010101}\'cb\'ce\'cc\'e5{\*\falt SimSun};}
+{\f36\fnil\fcharset134\fprq2{\*\panose 02010600030101010101}@\'cb\'ce\'cc\'e5;}{\f38\froman\fcharset238\fprq2 Times New Roman CE;}{\f39\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f41\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f42\froman\fcharset162\fprq2 Times New Roman Tur;}{\f43\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f44\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f45\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f46\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f170\fnil\fcharset0\fprq2 SimSun Western{\*\falt SimSun};}{\f400\fnil\fcharset0\fprq2 @\'cb\'ce\'cc\'e5 Western;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs21\lang1033\langfe2052\kerning2\loch\f0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\loch\f0\hich\af0\dbch\af13\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{
+\s15\qc \li0\ri0\nowidctlpar\brdrb\brdrs\brdrw15\brsp20 \tqc\tx4153\tqr\tx8306\wrapdefault\aspalpha\aspnum\faauto\nosnaplinegrid\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs18\alang1025 \ltrch\fcs0 
+\fs18\lang1033\langfe2052\kerning2\loch\f0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 \sbasedon0 \snext15 \styrsid15098623 header;}{\s16\ql \li0\ri0\nowidctlpar
+\tqc\tx4153\tqr\tx8306\wrapdefault\aspalpha\aspnum\faauto\nosnaplinegrid\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs18\alang1025 \ltrch\fcs0 \fs18\lang1033\langfe2052\kerning2\loch\f0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 
+\sbasedon0 \snext16 \styrsid15098623 footer;}{\*\cs17 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2 \sbasedon10 \styrsid15098623 Hyperlink;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid655764
+\rsid811358\rsid1069012\rsid1318786\rsid1462542\rsid2231290\rsid2847010\rsid2909350\rsid3146529\rsid3152368\rsid3153644\rsid3409549\rsid3869496\rsid4001084\rsid4419642\rsid4477090\rsid5848812\rsid6493368\rsid7939098\rsid8674677\rsid8944438\rsid9449096
+\rsid10236727\rsid10246904\rsid10505668\rsid10897542\rsid11282186\rsid11941893\rsid12669821\rsid13312263\rsid13773176\rsid14707564\rsid15098623\rsid15222873\rsid15611782\rsid15665703\rsid15817367\rsid15866361\rsid16080730\rsid16195404\rsid16517661
+\rsid16607898}{\*\generator Microsoft Word 11.0.0000;}{\info{\title 可视化建模与UML习题集及答案}{\subject 可视化建模与UML习题集及答案}{\author \'ce\'c4\'b5\'b5\'cf\'c2\'d4\'d8\'cd\'f8}{\keywords \'ce\'c4\'b5\'b5\'cf\'c2\'d4\'d8}{\doccomm http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html}{\operator doc.wendoc.com}
+{\creatim\yr2010\mo9\dy28\hr22\min9}{\revtim\yr2013\mo11\dy10\hr10\min59}{\version20}{\edmins1065}{\nofpages1}{\nofwords54}{\nofchars308}{\*\manager https://doc.wendoc.com/}{\*\company https://doc.wendoc.com/}{\*\category \'ce\'c4\'b5\'b5\'cf\'c2\'d4\'d8}
+{\nofcharsws361}{\vern24613}{\*\password 00000000}}{\*\xmlnstbl {\xmlns1 https://schemas.microsoft.com/office/word/2003/wordml}{\xmlns2 urn:schemas-microsoft-com:office:smarttags}}
+\paperw11906\paperh16838\margl1134\margr1134\margt1134\margb1134\gutter0\ltrsect 
+\deftab420\ftnbj\aenddoc\donotembedsysfont1\donotembedlingdata0\grfdocevents0\validatexml1\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors1\formshade\horzdoc\dgmargin\dghspace180\dgvspace156\dghorigin1134\dgvorigin1134\dghshow0
+\dgvshow2\jcompress\lnongrid\viewkind1\viewscale85\splytwnine\ftnlytwnine\htmautsp\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct\asianbrkrule\rsidroot3869496\newtblstyruls\nogrowautofit 
+{\*\fchars 
+!),.:\'3b?]\'7d\'a1\'a7\'a1\'a4\'a1\'a6\'a1\'a5\'a8\'44\'a1\'ac\'a1\'af\'a1\'b1\'a1\'ad\'a1\'c3\'a1\'a2\'a1\'a3\'a1\'a8\'a1\'a9\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bf\'a1\'b3\'a1\'bd\'a3\'a1\'a3\'a2\'a3\'a7\'a3\'a9\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'dd\'a3\'e0\'a3\'fc\'a3\'fd\'a1\'ab\'a1\'e9
+}{\*\lchars ([\'7b\'a1\'a4\'a1\'ae\'a1\'b0\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'be\'a1\'b2\'a1\'bc\'a3\'a8\'a3\'ae\'a3\'db\'a3\'fb\'a1\'ea\'a3\'a4}\fet0{\*\wgrffmtfilter 013f}\ilfomacatclnup0{\*\template 
+C:\\Documents and Settings\\Administrator\\\'d7\'c0\'c3\'e6\\doc.dot}{\*\ftnsep \ltrpar \pard\plain \ltrpar\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs21\lang1033\langfe2052\kerning2\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14707564 \chftnsep 
+\par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs21\lang1033\langfe2052\kerning2\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14707564 \chftnsepc 
+\par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs21\lang1033\langfe2052\kerning2\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14707564 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs21\lang1033\langfe2052\kerning2\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14707564 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\linex0\headery851\footery992\colsx425\endnhere\sectlinegrid312\sectspecifyl\sectrsid6493368\sftnbj {\headerr \ltrpar \pard\plain \ltrpar\s15\qc \li0\ri0\nowidctlpar\brdrb\brdrs\brdrw15\brsp20 
+\tqc\tx4153\tqr\tx8306\wrapdefault\aspalpha\aspnum\faauto\nosnaplinegrid\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs18\alang1025 \ltrch\fcs0 \fs18\lang1033\langfe2052\kerning2\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 
+\af0\afs24 \ltrch\fcs0 \b\f13\fs24\cf6\insrsid11941893 \loch\af13\hich\af13\dbch\f13 \'ce\'c4\'b5\'b5}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f13\fs24\cf6\insrsid6493368\charrsid15098623 \loch\af13\hich\af13\dbch\f13 \'cf\'c2\'d4\'d8}{\rtlch\fcs1 
+\af0\afs24 \ltrch\fcs0 \b\f13\fs24\cf6\insrsid6493368\charrsid15098623 \hich\af13\dbch\af13\loch\f13  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f13\fs24\cf6\insrsid6493368\charrsid15098623 \loch\af13\hich\af13\dbch\f13 \'c3\'e2\'b7\'d1\'ce\'c4\'b5\'b5
+\'cf\'c2\'d4\'d8}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\fs24\cf6\loch\af13\insrsid6493368\charrsid15098623 
+\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f13\fs32\cf6\insrsid3146529 \hich\af13\dbch\af13\loch\f13 HYPERLINK "https://doc.wendoc.com/"}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f13\fs32\cf6\insrsid3146529\charrsid3146529 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b4600000068007400740070003a002f002f0064006f0063002e00770065006e0064006f0063002e0063006f006d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab0000}}}{\fldrslt {
+\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \cs17\f13\fs32\ul\cf2\insrsid3146529 \hich\af13\dbch\af13\loch\f13 https://doc.wendoc.com/}}}\sectd \linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
+\fs32\cf6\loch\af13\insrsid6493368\charrsid15098623 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta \dbch .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta \dbch .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta \dbch .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang 
+{\pntxta \dbch )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}
+{\pntxta \dbch )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}\pard\plain \ltrpar\qj \li0\ri0\sl180\slmult0
+\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6493368 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs21\lang1033\langfe2052\kerning2\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid6493368 \loch\af0\hich\af0\dbch\f13 \'a1\'a1\'a1\'a1}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6493368 
+\par }\pard \ltrpar\qc \li0\ri0\sl180\slmult0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1318786 {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \b\f13\fs36\insrsid1318786\charrsid15866361 \hich\af13\dbch\af13\loch\f13 可视化建模与UML习题集及答案}
+{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \b\fs36\insrsid1318786\charrsid15866361 
+\par }\pard \ltrpar\qc \li0\ri0\sl180\slmult0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15817367 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid1318786 
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid6493368\charrsid6493368 \loch\af0\hich\af0\dbch\f13 \'b1\'be\'ce\'c4\'b5\'b5\'cf\'c2\'d4\'d8\'d7\'d4}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\cf11\insrsid3146529 
+\hich\af0\dbch\af13\loch\f0 HYPERLINK "https://doc.wendoc.com/"}{\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\cf11\insrsid3146529\charrsid3146529 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b4600000068007400740070003a002f002f0064006f0063002e00770065006e0064006f0063002e0063006f006d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab0000}}}{\fldrslt {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \cs17\fs24\ul\cf2\insrsid11941893 \loch\af0\hich\af0\dbch\f13 \'ce\'c4\'b5\'b5}{\rtlch\fcs1 \af0 \ltrch\fcs0 \cs17\fs24\ul\cf2\insrsid6493368\charrsid6493368 \loch\af0\hich\af0\dbch\f13 \'cf\'c2\'d4\'d8\'cd\'f8}}}\sectd 
+\linex0\headery851\footery992\colsx425\endnhere\sectlinegrid312\sectspecifyl\sectrsid6493368\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid16607898 \loch\af0\hich\af0\dbch\f13 \'a3\'ac\'c4\'da\'c8\'dd}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fs24\insrsid6493368\charrsid6493368 \loch\af0\hich\af0\dbch\f13 \'bf\'c9\'c4\'dc\'b2\'bb\'cd\'ea\'d5\'fb\'a3\'ac\'c4\'fa\'bf\'c9\'d2\'d4}{\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid8674677 \loch\af0\hich\af0\dbch\f13 \'b8\'b4\'d6\'c6}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \fs24\insrsid6493368\charrsid6493368 \loch\af0\hich\af0\dbch\f13 \'d2\'d4\'cf\'c2\'cd\'f8\'d6\'b7\'bc\'cc\'d0\'f8\'d4\'c4\'b6\'c1\'bb\'f2\'cf\'c2\'d4\'d8}{\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid6493368 \loch\af0\hich\af0\dbch\f13 \'a3\'ba}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid6493368 
+\par }\pard \ltrpar\qc \li0\ri0\sl180\slmult0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3869496 {\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid3146529 \hich\af0\dbch\af13\loch\f0 
+HYPERLINK "https://doc.wendoc.com/"}{\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid3146529\charrsid3146529 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b4600000068007400740070003a002f002f0064006f0063002e00770065006e0064006f0063002e0063006f006d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab0000}}}{\fldrslt {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \cs17\fs24\ul\cf2\insrsid3869496\charrsid15866361 \hich\af0\dbch\af13\loch\f0 http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html}}}\sectd \linex0\headery851\footery992\colsx425\endnhere\sectlinegrid312\sectspecifyl\sectrsid6493368\sftnbj 
+{\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid6493368\charrsid6493368 
+\par }\pard \ltrpar\qj \li0\ri0\sl180\slmult0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6493368 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6493368 
+\par 
+\par 
+\par }\pard \ltrpar\qj \li0\ri0\sl360\slmult1\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15866361 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f13\fs24\insrsid3869496\charrsid15866361 \hich\af13\dbch\af13\loch\f13 可视化建模与UML习题集及答案\par\par
+专题一&专题二：UML概述&面向对象基础\par\par
+一、单项选择题\par\par
+1、组成UML构造块三大要素为：（B）\par\par
+A、事物、元素、关系\par\par
+B、事物、关系、图形\par\par
+C、事物、组件、图形\par\par
+D、事物、图形、结构\par\par
+2、UML中的事物分为哪几类？（A）\par\par
+A、结构、行为、分组、备注等四类事物\par\par
+B、结构、图形、行为、分组等四类事物\par\par
+C、类、行为、分组、备注等四类事物\par\par
+D、分组、备注、结构、图形等四类事物\par\par
+3、UML中的关系分为哪几种？（C）\par\par
+A、依赖关系、类关系、一般化关系、合作关系\par\par
+B、依赖关系、泛化关系、实现关系、继承关系\par\par
+C、依赖关系、关联关系、泛化关系、实现关系\par\par
+D、依赖关系、关联关系、泛化关系、合作关系\par\par
+4、所谓的4 1视图是指（A）\par\par
+A、Design View、Interaction View、Implementation View、Deployment View、useCase View\par\par
+B、Interaction View、Implementation View、Deployment View、Customer View、useCase View\par\par
+C、Interaction View、Implementation View、Deployment View、Process View、useCase View\par\par
+D、Design View、Interaction View、Implementation View、Process View、useCase View\par\par
+5、在UML中属于静态视图的是（D）\par\par
+A、顺序图、协作图、包图、类图\par\par
+B、对象图、类图、构件图、包图\par\par
+C、顺序图、用例图、对象图、类图\par\par
+D、对象、类图、构件图、部署图\par\par
+6、下列关于UML叙述正确的是（  http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html D ）\par\par
+A、UML是一种语言，语言的使用者不能对其进行扩展\par\par
+B、UML仅是一组图形的集合\par\par
+C、UML仅适用于系统的分析与设计阶段\par\par
+D、UML是独立于软件开发过程的\par\par
+7、下列描述中，哪个不是建模的基本原则（ D ）\par\par
+A、要仔细的选择模型\par\par
+B、每一种模型可以在不同的精度级别上表示所要开发的系统\par\par
+C、模型要与现实相联系\par\par
+D、对一个重要的系统用一个模型就可以充分描述\par\par
+8、下列描述中，哪个不是软件与硬件的区别（D ）\par\par
+A.软件是被开发或设计的，而不是被制造的；\par\par
+B.软件不会“磨损”，但会“退化”；\par\par
+C.软件的开发至今尚未摆脱手工艺的开发方式；\par\par
+D.软件开发与硬件开发的流程一样。\par\par
+9、UML提供了4种结构图用于对系统的静态方面进行可视化、详述、构造和文档化。其中（B）是面向对象系统建模中最常用的图，用于说明系统的静态设计视图；当需要说明系统的静态实现视图时，应该选择（A）；当需要说明体系结构的静态实施视图时，应该选择（D）。\par\par
+(1)．A．组件图B．类图C．对象图D．部署图\par\par
+(2)．A．组件图B．协作图C．状态图D．部署图\par\par
+(3)．A．协作图B．对象图C．活动图D．部署图\par\par
+10、Blue软件公司就目前的“通信网关”项目中存在的质量问题，召开了一次产品质量问题鉴定会，会议得出的结论是：该系统的质量问题是由于系统设计阶段未能正确地设计产品的类图而导致的。请问以下哪个项目成员应该为问题负主要责任。（ B   ）A软件开发工程师       B系统架构师      C系统分析员      D 软件测试工程师\par\par
+11、对象技术是（ A  ）\par\par
+A、一系列指导软件构造的原则\par\par
+B、一种新的已被认可的理论\par\par
+C、Grady Booch发明的一种新的动态的语言\http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.htmlpar\par
+D、仅仅基于模块化的原则\par\par
+二、填空题\par\par
+1、UML是Unified Modeling Language的英文缩写。\par\par
+2．UML中的图分为：__类图__、对象图、_构件图__ 、用例图_、活动图、__状态图___、协作图、_顺序图__、\par\par
+部署图九种。\par\par
+三、简答题？\par\par
+1．什么是建模？为什么要建模？\par\par
+模型是现实的简化。\par\par
+我们建模是为了能够更好的理解我们正在开发的系统\par\par
+2．UML包括哪些组成部分？\par\par
+UML包括三个主要部分：构造块、规则以及公共机制\par\par
+3．什么是面向对象？面向对象的特点是什么？\par\par
+4．UML图有哪些？其中哪些是静态图？哪些是动态图？\par\par
+UML图包括：类图、构件图、用例图、状态图、顺序图、对象图、活动图、协作图、部署图\par\par
+其中，类图、构件图、对象图、部署图是静态视图\par\par
+用例图、状态图、顺序图、活动图、协作图是动态图\par\par
+专题三：类图（对象图、包图）\par\par
+一、单项选择题\par\par
+1．UML中类的有三种，下面哪个不是其中之一（D ）\par\par
+A.实体类\par\par
+B.边界类\par\par
+C.控制类\par\par
+D.主类\par\par
+2．在UML中，类之间的关系有一种为关联关系，其中多重性用来描述类之间的对应关系，下面哪个不是其中之一（   D ）\par\par
+A. 0 (1)\par\par
+B. 0….*\par\par
+C. 1….*\par\par
+D. *….*\par\par
+3．通常对象有很多属性，但对于外部对象来说某些属性应该不能被直接访问，下面哪个不是UML中的类成员访问限定性（   C ）\par\par
+A.公有的（public）\par\par
+B.受保护的（protected）\par\par
+C.友员（friendly）\par\par
+D.http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html私有的（private）\par\par
+4、在一个课程注册系统中，定义了类CourseSchedule和类Course，并在类CourseSchedule 中定义了方法add（c:Course）和方法remove（c:Course），则类CourseSchedule和类Course 之间的关系是：（C）\par\par
+A、泛化关系\par\par
+B、组成关系\par\par
+C、依赖关系\par\par
+D、包含关系\par\par
+5、类A的一个操作调用类B的一个操作，且这两个类之间不存在其他关系，那么类A和类B之间是（）关系。（C）\par\par
+A、实现\par\par
+B、关联\par\par
+C、依赖\par\par
+D、泛化\par\par
+6、在UML2.0版本中的图形表示方式中，“包”的表示方式是下列图形中的哪一个？（A）\par\par
+[此处图片未下载成功]\par\par
+B、\par\par
+[此处图片未下载成功]\par\par
+C、\par\par
+[此处图片未下载成功]\par\par
+[此处图片未下载成功]\par\par
+D、\par\par
+7、在A）\par\par
+A、组成关系\par\par
+B、依赖关系\par\par
+C、聚集关系\par\par
+D、泛化关系\par\par
+[此处图片未下载成功]\par\par
+8、在UML中下列图形代表什么关系？( D  )\par\par
+[此处图片未下载成功]\par\par
+9、汽车（Car）由轮子、发动机、油箱、座椅、方向盘等组成。那么car类和其他类（Wheel、Engin、Tank、Chair、SteeringWheel）之间的关系是：（D ）\par\par
+A、泛化关系（Generalization）\par\par
+B、实现关系（Realization）\par\par
+C、包含关系（Inclusion）\par\par
+D、组合关系（Composition）\par\par
+10．在下面的图例中，哪个用来描述注释（D ）\par\par
+[此处图片未下载成http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html功]\par\par
+A    B    C    D\par\par
+11．关于包的描述，哪个不正确（E ）\par\par
+A.和其他建模元素一样，每个包必须有一个区别于其他包的名字；\par\par
+B.包中可以包含其他元素，比如类、接口、组件、用例等等；\par\par
+C.包的可见性分为：public、protected、private；\par\par
+D.引入（import）使得一个包中的元素可以单向访问另一个包中的元素；\par\par
+E.导出（export）使的一个包中的元素可以单向访问另一个包中的元素；\par\par
+12、消息传递是对象间通信的手段，一个对象通过向另一个对象发送消息来请求其服务，一个消息通常包括：（C）\par\par
+A、发送消息的对象的标识、调用的发送方的操作名和必要的参数\par\par
+B、发送消息的类名和接收消息的类名\par\par
+C、接收消息的对象的标识、调用的接收方的操作名和必要的参数\par\par
+D、接收消息的类名\par\par
+13、在一个网络游戏系统中，定义了类Cowboy和类Castle，并在类Cowboy中定义了方法\par\par
+open（c：Castle）和方法Close（c：Castle），则类Cowboy和类Castle之间的关系是：……\par\par
+（A）\par\par
+A、依赖（dependency）关系\par\par
+B、组成（composition）关系\par\par
+C、泛化（generalization）关系\par\par
+D、包含（include）关系\par\par
+14、根据下面的代码，判断下面那些叙述是正确的？（   A ）\par\par
+public class HouseKeeper{\par\par
+private TimeCard timecard;\par\par
+public void clockIn(){\par\par
+timecard.punch();\par\par
+}\par\par
+}\par\par
+A、类HouseKeeper和类Tihttp://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.htmlmeCard之间存在关联（Association）关系；\par\par
+B、类HouseKeeper和类TimeCard之间存在泛化（Generalization）关系；\par\par
+C、类HouseKeeper和类TimeCard之间存在实现（Realization）关系；\par\par
+D、类HouseKeeper和类TimeCard之间存在包含（Inclusion）关系\par\par
+15、UML关系包括关联、聚合、泛化、实现、依赖等5种类型，请将合适的关系填写在下\par\par
+列描述的（D ）中。\par\par
+①用例及其协作之间是（A ）关系。\par\par
+②类A的一个操作调用类B的一个操作，且这两个类之间不存在其他关系，那么类A\par\par
+和类B之间是（C）关系。\par\par
+③在学校中，一个学生可以选修多门课程，一门课程可以由多个学生选修，那么学生\par\par
+和课程之间是（B ）关系。\par\par
+④森林和树木之间是（E）关系。关系。\par\par
+⑤在MFC类库中，Window类和DialogBox类之间是（D ）\par\par
+A 实现\par\par
+B 关联\par\par
+C 依赖\par\par
+D 泛化\par\par
+E 聚合\par\par
+16、已知类A需要类B提供的服务，下列所描述的四种情况中，哪种情况不好把类A和类\par\par
+B之间的关系定义成依赖关系（   D ）\par\par
+A、类A中存在两个操作都需要访问类B的同一个对象\par\par
+B、类A的某个操作内部创建了类B的对象，而其他操作均与类B无关\par\par
+C、类A的某个操作其参数是类B的对象，而其他操作均与类B无关\par\par
+D、类B是一个全局变量\par\par
+17、“一个研究生在软件学院做助教（teaching assistant），同时还在校园餐厅打工做收银员（cashier）。也就是说，这个研究生有3种角色：学生、助教、收银员，但在同一时刻只能有一种角色。”\par\par
+根据上面的陈述，下面哪个设计是最合理http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html的？（B）\par\par
+[此处图片未下载成功]\par\par
+[此处图片未下载成功]\par\par
+A\par\par
+[此处图片未下载成功]\par\par
+B\par\par
+[此处图片未下载成功]\par\par
+C    D\par\par
+18、类X与类Y有许多的属性，但是它的行为与类Y稍微有所不同；这时可以认为类X是\par\par
+类Y的一种特例；则类X和类Y之间是（   A ）关系。\par\par
+A 、泛化关系B、关联关系C、依赖关系D、实现关系\par\par
+19、关于类和对象的关系，下列说法中哪个是错误的（   B ）\par\par
+A、每个对象都是某个类的实例\par\par
+B、每个类某一时刻必定存在对象实体\par\par
+C、类是静态的描述\par\par
+D、对象是动态的实例\par\par
+二、填空题\par\par
+1．下图中类的名字是：__login__类中的成员属性是：sname_、spass__ 类中的行为（方法）是：____checkuser（）____。\par\par
+[此处图片未下载成功]\par\par
+2、在UML中分组元素是包。\par\par
+3、在UML模型图中，最适合用来设计数据库大纲的图形是类图。\par\par
+4、在对系统建模时、接口可分为提供接口、所需接口。\par\par
+5、下图所表示的含义是WashingMachine实现了接口ControlKnob,Person   使用了接口ControlKnob\par\par
+[此处图片未下载成功]\par\par
+三、简答题\par\par
+1、在UML建模中使用“包”是为了达到怎样的效果？\par\par
+在UML中，包是分组事物的一种，它是建模时用来组织模型中的元素的，在系统运行时并不存在包的实例。包在开发大型软件系统时是一个非常重要的机制，它就象一个“容器”，可用于组织模型中的相关元素以便更容易理解。\par\par
+2、下图显示了某个学校课程管理系统的部分类图，其中一个学生（student）可以知道所有注册课程的教师（instructor）http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html，一个教师也可以知道所有注册课程的学生。\par\par
+[此处图片未下载成功]\par\par
+现在提出一个新的需求："一个教师也可以是某些课程的学生"，那么下面设计A～C中哪一个是最好的？为什么？\par\par
+[此处图片未下载成功]\par\par
+设计A：\par\par
+[此处图片未下载成功]\par\par
+设计B：\par\par
+[此处图片未下载成功]\par\par
+.设计C：\par\par
+答案：设计C最好。\par\par
+理由：\par\par
+设计A方案：应用了自身关联，可以实现新的需求，但是不便于扩展。设计B方案：不能实现新的需求。\par\par
+设计C方案：应用开闭原则，实现了新的需求，并且便于扩展。\par\par
+3、请为下面这段编译正确的代码，补充类图。\par\par
+pulic class Student{\par\par
+private String name;\par\par
+public void setName(String name){\par\par
+http://doc.wendoc.com=name;\par\par
+}\par\par
+public String getName(){\par\par
+return http://doc.wendoc.com;\par\par
+}\par\par
+}\par\par
+4、请参考下图，回答问题：\par\par
+[此处图片未下载成功]\par\par
+图A.2\par\par
+1）图中的实体类为____书籍、书目____\par\par
+2）图中的控制类为_____书籍管理_____\par\par
+3）图中的边界类为_____借书界面_____\par\par
+4）“借书界面”类中的成员属性有___susername、spass___\par\par
+四、根据下面的陈述画出类图\par\par
+1）学生包括本科生、研究生两种。\par\par
+2）研究生的一部分利用课余时间担任助教。\par\par
+3）教师包括讲师和教授两种。\par\par
+4）一名助http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html教可以为一位讲师或一位教授助课，一位讲师只能有一名助教，一位教授可以有5名助教。\par\par
+[此处图片未下载成功]\par\par
+[此处图片未下载成功]\par\par
+五、按如下描述画出一个自治机器人的类图。这张图的焦点是聚集在那些让机器人在路上行走的机制所对应的类上。你可以发现一个虚类Motor和两个从它派生出来的类：SteeringMotor和MainMotor。这两个类都从它的父亲Motor继承了五个方法：move()、stop()、resetCounter()、statues（）、distance()。这两个类又是另一个类Driver的一部分。类PathAgent 和Driver有一个1对1的关系，和CollisionSensor有1对n的关系。\par\par
+【问题：】综上所述请你用UML来绘制分析类图。\par\par
+[此处图片未下载成功]\par\par
+六、请根据以上题目描述，给出系统的UML类图设计方案，并用Java代码予以实现。\par\par
+系统名称：农夫果园游戏系统\par\par
+人物角色：农夫（Farmer）、市场调查员(Inquirer)、农场主(Boss)\par\par
+系统实物：各种果树（Fruit）、果园(Garden)\par\par
+功能需求：1、农夫可以根据市场行情种植各种水果；\par\par
+2、市场调查员可以了解市场行情；\par\par
+3、农场主可以向农夫、市场调查员发布命令\par\par
+4、各种果树都具有种植（plant）、成长（grow）、收获(harvest)行为；\par\par
+5、果园是人物和实物进行交易的经营场所。\par\par
+[此处图片未下载成功]\par\par
+Java代码：\par\par
+public class Fruit {\par\par
+public void plant(){\par\par
+}\par\par
+public void grow(){\par\par
+}\par\par
+public void harvest(){\par\par
+}\par\par
+}\pahttp://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.htmlr\par
+public class Apple extends Fruit{\par\par
+}\par\par
+public class Grape extends Fruit {\par\par
+}\par\par
+public class Farmer {\par\par
+public Fruit plant(String message){\par\par
+if (message.equals("apple"))\par\par
+return new Apple();\par\par
+else\par\par
+return new Grape();\par\par
+}\par\par
+}\par\par
+public class Inquier {\par\par
+public String inquire(){\par\par
+return "grape";\par\par
+}\par\par
+}\par\par
+public class Boss {\par\par
+public String command1(Inquier inquier){\par\par
+return inquier.inquire();\par\par
+}\par\par
+public Fruit command2(Farmer farmer,String message){\par\par
+return farmer.plant(message);\par\par
+}\par\par
+}\par\par
+public class Garden {\par\par
+private Boss boss;\par\par
+private Farmer farmer;\par\par
+private Inquier inquier;\par\par
+private Fruit fruit;\par\par
+}\par\par
+专题四：用例图\par\par
+一、单选题\par\par
+1、用例图是从谁的角度出发对如何使用系统进行描述的？（A）\par\par
+A、用户\par\phttp://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.htmlar
+B、系统分析师\par\par
+C、系统设计师\par\par
+D、\par\par
+[此处图片未下载成功]\par\par
+程序员\par\par
+2、在UML2.0版本中。>\par\par
+表示是用例间什么关系（   D ）\par\par
+A、关联关系\par\par
+B、依赖关系\par\par
+C、扩展关系\par\par
+D、包含关系\par\par
+3、用例图展示了外部参与者与系统所提供的用例之间的连接，UML中的外部参与者是指（D ）\par\par
+A．人员B．单位C．人员或单位D．人员或外部系统4、在UML的用例图图形表示方式中，“角色.”的表示方式是下列图形中的哪一个（   D   ）\par\par
+[此处图片未下载成功]\par\par
+A、\par\par
+[此处图片未下载成功]\par\par
+B、C、\par\par
+[此处图片未下载成功]\par\par
+[此处图片未下载成功]\par\par
+D、\par\par
+5、包含关系是在下面哪种关系的基础上构造的？（   B ）\par\par
+A、组成关系\par\par
+B、依赖关系\par\par
+C、聚合关系\par\par
+D、泛化关系\par\par
+6、在用例之间，会有三种不同的关系，下列哪个不是他们之间可能的关系（D ）\par\par
+A.包含（include）\par\par
+B.扩展（extend）\par\par
+C.泛化（generalization）\par\par
+D.关联（connect）\par\par
+7、在A TM自动取款机的工作模型中（用户通过输入正确的用户资料，从银行取钱的过程），下面哪个是“Actor”( A )\par\par
+A.用户\par\par
+B.ATM取款机\par\par
+C.A TM取款机管理员\par\par
+D.取款\par\par
+8、用例(usecase)用来描述系统在对事件做出响应时所采取的行动。用例之间是具有相关性的。在一个“订单输入子系统”中，创建新订单和更新订单都需要核查用户帐号是否正确。那么，用例http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html“创建新订单”、“更新订单”与用例“核查客户帐号”之间是___ 关系。( A ) A．包含(include) B．扩展(extend) C．分类(classification) D．聚集(aggregation)\par\par
+9、系统分析员Analyst在做储蓄系统的需求开发时，发现：①“取款”用例、②“查询余额”用例、③“更改密码”用例都要使用④“验证卡号和密码”用例的功能。那么①②③3个用例与用例④的关系是（D）\par\par
+A、使用关系\par\par
+B、扩展关系\par\par
+C、组成关系\par\par
+D、包含关系\par\par
+10、在电影院管理系统中，有3个用例，分别是“购买电影票”、“预定电影票”、“登记电影制片厂”，其中“购买电影票”是高风险、高业务价值的用例；“预定电影票”是低风险、高业务价值的用例；“登记电影制片厂”是低风险、低业务价值的用例。在开发时准备采用迭代式开发，先实现其中的一个用例，那么首先应实现哪个用例?( C )\par\par
+A、“登记电影制片厂”用例\par\par
+B、“预定电影票”用例\par\par
+C、“购买电影票”用例\par\par
+D、3个用例中的任意一个都可以\par\par
+11、Mentor是一家集团公司，业务范围涉及到制造业、服务业和高科技产业，最近公司准备实施企业资源规划系统（ERP），因此委托Butterfly公司负责该项工作。Butterfly公司的专家为了能更好地了解该公司目前业务资源的使用情况，决定建立UML模型与以阐释，那么Butterfly的专家应该建立哪种模型图？（A）\par\par
+A、用例图\par\par
+B、类图\par\par
+C、业务对象图\par\par
+D、顺序图\par\par
+12、下列选项中，那些是用例描述应该包含的内容（多选）( ABCE )\par\par
+A、概述\par\par
+B、基本事件流\par\par
+C、可选事件流\par\par
+D、对象模型\par\par
+E、前置条件\par\par
+二、简答题\par\par
+1．什么是参与者？如何确定系统的参http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html与者？\par\par
+2．什么是用例？如何确定系统的用例？\par\par
+3．用例之间有哪些关系？对每一种关系，请举出一个实际的例子，并画出用例图。\par\par
+4．说明在Browser中删除一个模型元素和在Diagram中删除一个模型元素的区别。\par\par
+在Browser中删除一个模型元素将同时删除所有的Diagram中对它的引用，该模型元素奖真正从模型文件中删除。\par\par
+在Diagram中删除的模型元素不一定真正在模型文件中被删除，而只是从当前的图中被删除。\par\par
+5．Use-Case 模型可以包括哪些内容，列举至少３种。\par\par
+参与者、用例、用例描述文档\par\par
+三、分析题\par\par
+1、某电话公司决定开发一个管理所有客户信息的交互式网络系统。系统功能如下：\par\par
+浏览客户信息：任何使用Internet的网络用户都可以浏览电话公司所有的客户信息（包括姓名、住址、电话号码等）。\par\par
+登录：电话公司授予每个客户一个账号号。拥有授权账号的客户，可以使用系统提供的页面设置个人密码，并使用该账号和密码向系统注册。\par\par
+修改个人信息：客户向系统注册后，可以发送电子邮件或者使用系统提供的页面，对个人信息进行修改。\par\par
+删除客户信息：只有公司的管理人员才可以删除不再接受公司服务的客户的信息。\par\par
+[此处图片未下载成功]\par\par
+【问题】在需求分析阶段，采用用例图描述系统功能需求，如上图所示，请指出图中的A、\par\par
+B、C和D分别是哪个用例？\par\par
+1、A 浏览客户信息\par\par
+B 修改个人信息\par\par
+C 登录系统\par\par
+D 删除客户信息\par\par
+[此处图片未下载成功]\par\par
+该图的基本含义：\par\par
+2、该用例图描述的是图书馆管理系统中管理员对书籍和书目的管理流程。在这个流程中，\par\par
+管理员这个Actor与用例删除书目、删除书籍、修改书籍信息、新增书籍之间能通过消息传递发生关联，而图书查http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html询这个用例与删除书目、删除书籍、修改书籍信息这三个用例之间有被包含的关系，也就是说，在删除书目、删除书籍、修改书籍信息用例发生的过程前，需要进行图书查询。新增书目这个用例与新增书籍这个用例也是被包含的关系。\par\par
+四、在医生的办公室里接待员、护士和医生使用病人记录和计划安排系统。当病人第一次来这里看病时，接待员使用该系统来输入病人信息，并且他们安排所有的预约。护士使用系统来跟踪病人每次看病的结果并输入护理病人的信息，如医疗和诊断。护士也可以访问这些信息以打印病人诊断结果或病人看病历史。医生主要用这个系统来查看病人的病史，偶尔也输入病人的医疗信息，但通常他让护士输入这些信息。\par\par
+【问题】根据上面的陈述，请你分析出参与者和用例，并绘制出用例图。\par\par
+[此处图片未下载成功]\par\par
+安排预约\par\par
+[此处图片未下载成功]\par\par
+打印看病历史\par\par
+五、网络在线售票订位系统的功能如下：\par\par
+客户有一般客户和企业客户两种，可以建立在线订位事件、事件确认，执行在线信用卡付费、个人或团体账号修改和管理、在线个人事件查询；系统操作者可以建立在线销售订位事件、查询目前销售订位状况、个人或团体账号修改和管理；系统设计者可以建立在线售票订位事件、查询目前销售订位情况、在线系统维护和功能增加、系统环境设置。\par\par
+【问题】请依照上述描述，并绘制出需求用例模型\par\par
+[此处图片未下载成功]\par\par
+设置系统环境\par\par
+六、大学选课系统是与学生有着紧密联系的系统。学生可以登录该系统选修课程，查看分数。教授可以登录到系统选择课程授课，提交学生成绩。学校另有一个系统里面保存有课程目录信息，选课系统需要和课程目录系统通讯以取得课程目录信息。\par\par
+【问题】对该“大学选课”系统进行面向对象分析并运用UML建模设计出用例图。\par\par
+[此处图片未下载成功]\par\par
+提交学生成绩\par\par
+七、基于WEB的网上购物系统越来越受到人们的关注，例如小型电子商务订单处理系统，使得客户可以给购物http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html车添加项目，查看购物车，查看具体项目，购买商品，删除购物车中的项目，浏览商品，提供反馈单；库房经理可以进行盘点，返回库房项目，提供订单；采购经理可以增加销售的新项目，删除销售项目，购买库存。\par\par
+【问题】对该“订单处理系统”进行面向对象分析并运用UML建模设计出用例图。\par\par
+[此处图片未下载成功]\par\par
+购买库存盘点\par\par
+专题五：活动图\par\par
+一、单选题\par\par
+1．下面哪个不是活动图中的基本元素（D ）\par\par
+A.状态、分支\par\par
+B.转移、汇合\par\par
+C.泳道、转移\par\par
+D.用例、状态\par\par
+2、下列所绘制的模型片段、属于何种图形？（B）\par\par
+[此处图片未下载成功]\par\par
+A、状态图\par\par
+B、活动图\par\par
+C、协作图\par\par
+D、顺序图\par\par
+3、如果要对一个学院课程注册系统中的三个主要角色学生、教授、教务长的工作流程建模，那么需要使用下面的哪个图？（A）\par\par
+A、活动图\par\par
+B、类图\par\par
+C、交互图\par\par
+D、部署图\par\par
+4、在UML中，用来表示企业业务的工作流。这种图显示出工作流中的步骤、决策点，以及完成每一步骤的角色和对象。这种图形是（A）\par\par
+A．活动图B．业务图C．用例图D．交互图\par\par
+[此处图片未下载成功]\par\par
+6、在UML中，_D _把活动图中的活动划分为若干组，并将划分的组指定给对象，这些对象必须履行该组所包括的活动，它能够明确地表示哪些活动是由哪些对象完成的。\par\par
+A．组合活动B．同步条C．活动D．泳道\par\par
+7、Innovation公司正在为Rose开发插入件，使得Rose可以把OOA/OOD模型以各种图形格式导出，如JPEG格式、BMP格式、GIF格式等。在导出时，会根据不同的算法来生成相应的图形文件，这些算法很复杂。为了描述这些算法，在下面这些图中，哪个图是最合适http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html的？（A ）\par\par
+A、活动图\par\par
+B、类图\par\par
+C、交互图\par\par
+D、部署图\par\par
+8、Satopia是一家大型公司，由于公司业务的扩大，准备对公司已有的软件系统进行升级，因此委托Object公司负责该项工作。Object公司的专家建议在对系统升级前和Statopia公司的高层管理人员开一次讨论会，以便能更好地了解目前所使用的软件系统。那么在这次讨论会中，下面几个图中哪个图是最有用的？（C）\par\par
+A、状态图\par\par
+B、部署图\par\par
+C、活动图\par\par
+D、顺序图\par\par
+二、简答题\par\par
+1．什么是动作状态？什么是活动状态？它们有什么区别？\par\par
+1、对象的动作状态是活动图最小单位的构造块，表示原子动作。\par\par
+动作有三个特点：\par\par
+●原子性，即不能被分解为更小部分；\par\par
+●不可中断的，即一旦开始就必须运行到结束\par\par
+●瞬时的，即动作状态所占用的处理时间通常是极短的，甚至是可以被忽略的。\par\par
+相比动作状态，活动状态能够被进一步分解，它的活动可以由其他的活动图表示。\par\par
+活动状态不是原子的，可以被中断。\par\par
+在UML中，动作状态和活动状态的图标没有区别。\par\par
+2．请参考下图，回答问题：\par\par
+[此处图片未下载成功]\par\par
+（1）在该图中，有几种不同角色：\par\par
+（2）请找出客户在该流程过程中相关活动内容：\par\par
+答：(1）角色：客户、销售员、仓库管理员\par\par
+（2）客户活动：查看商品、查看单据、存款\par\par
+三、某公司在线购物的控制流程为：\par\par
+A、接受在线订购：客户在线下单采购公司产品。\par\par
+动作（Action）：在线输入采购清单\par\par
+B、动作（Action）：客户服务部接收到定单，检查定单是否正确\par\par
+正确执行动作C\par\par
+[此处图片未下载成http://doc.wendoc.com/b03a346221b5f878a6bdab2d8bb11c63bdad80d08.html功]\par\par
+不正确执行动作：发出一封订购失败的EMIAL给客户，请客户检查订单：执行动\par\par
+[此处图片未下载成功]\par\par
+作结束。\par\par
+C、同步动作：订单转仓管部出货\par\par
+订单转财务部门收款处理\par\par
+D、确认客户收到采购的货品\par\par
+正确：执行动作E\par\par
+不正确：执行动作D\par\par
+E、确认客户已完成收货付款\par\par
+正确：执行动作F\par\par
+不正确：执行动作E\par\par
+F、确认送货人员将收到的款项交于财务部\par\par
+正确：执行动作G\par\par
+不正确：执行动作F\par\par
+G、财务部门做订单结案处理\par\par
+H、结束\par\par
+【问题：】请你利用UML的活动图设计执行动作的活动图\par\par
+[此处图片未下载成功]\par\par
+四、过程：一个咨询公司会见一个客户时的业务过程\par\par
+1、公司业务员打电话给客户，确立约定。\par\par
+[此处图片未下载成功]\par\par
+2、如果约定在公司内，公司技术人员为会议准备会议室。\par\par
+[此处图片未下载成功]\par\par
+3、如果约定在公司之外，咨询顾问就要用电脑准备一份陈述报告\par\par
+[此处图片未下载成功]\par\par
+4、咨询顾问和业务员与客户在约定的时间和地点见面。\par\par
+[此处图片未下载成功]\par\par
+5、业务员随后给他们准备好会议用纸\par\par
+[此处图片未下载成功]\par\par
+6、如果会议产生了一个问题陈述，咨询顾问就根据问题陈述建立编写一个提案并把\par\par
+[此处图片未下载成功]\par\par
+【问题】请设计上述过程的活动图。\par\par
+}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\loch\af13\insrsid6493368\charrsid15866361 
+\par }\pard \ltrpar\qj \li0\ri0\sl180\slmult0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6493368 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6493368 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\insrsid15817367\charrsid15817367 \loch\af13\hich\af13\dbch\f13 \'ce\'c4}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\insrsid11941893 \loch\af13\hich\af13\dbch\f13 \'b5\'b5}{\rtlch\fcs1 \af0\afs28 
+\ltrch\fcs0 \f13\fs28\insrsid15817367\charrsid15817367 \loch\af13\hich\af13\dbch\f13 \'cf\'c2\'d4\'d8\'cd\'f8\'ca\'c7\'d7\'a8\'d2\'b5\'b5\'c4\'c3\'e2\'b7\'d1\'ce\'c4\'b5\'b5\'cb\'d1\'cb\'f7\'d3\'eb\'cf\'c2\'d4\'d8\'cd\'f8\'d5\'be\'a3\'ac\'cc\'e1\'b9\'a9
+\'d0\'d0\'d2\'b5\'d7\'ca\'c1\'cf\'a3\'ac\'bf\'bc\'ca\'d4\'d7\'ca\'c1\'cf\'a3\'ac\'bd\'cc\'d1\'a7\'bf\'ce\'bc\'fe\'a3\'ac\'d1\'a7\'ca\'f5\'c2\'db\'ce\'c4\'a3\'ac\'bc\'bc\'ca\'f5\'d7\'ca\'c1\'cf\'a3\'ac\'d1\'d0\'be\'bf\'b1\'a8\'b8\'e6\'a3\'ac\'b9\'a4
+\'d7\'f7\'b7\'b6\'ce\'c4\'a3\'ac\'d7\'ca\'b8\'f1\'bf\'bc\'ca\'d4\'a3\'ac}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\insrsid15817367\charrsid15817367 \hich\af13\dbch\af13\loch\f13 word}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 
+\f13\fs28\insrsid15817367\charrsid15817367 \loch\af13\hich\af13\dbch\f13 \'ce\'c4\'b5\'b5\'a3\'ac\'d7\'a8\'d2\'b5\'ce\'c4\'cf\'d7\'a3\'ac\'d3\'a6\'d3\'c3\'ce\'c4\'ca\'e9\'a3\'ac\'d0\'d0\'d2\'b5\'c2\'db\'ce\'c4\'b5\'c8\'ce\'c4\'b5\'b5\'cb\'d1\'cb\'f7
+\'d3\'eb\'ce\'c4\'b5\'b5\'cf\'c2\'d4\'d8\'a3\'ac\'ca\'c7\'c4\'fa\'ce\'c4\'b5\'b5\'d0\'b4\'d7\'f7\'ba\'cd\'b2\'e9\'d5\'d2\'b2\'ce\'bf\'bc\'d7\'ca\'c1\'cf\'b5\'c4\'b1\'d8\'b1\'b8\'cd\'f8\'d5\'be\'a1\'a3}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 
+\fs28\loch\af13\insrsid15817367 
+\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid11941893 \loch\af13\hich\af13\dbch\f13 \'ce\'c4\loch\af13\hich\af13\dbch\f13 \'b5\'b5}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid6493368\charrsid6493368 
+\loch\af13\hich\af13\dbch\f13 \'cf\'c2\'d4\'d8}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid6493368\charrsid6493368 \hich\af13\dbch\af13\loch\f13  }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid3146529 
+\hich\af13\dbch\af13\loch\f13 HYPERLINK "https://doc.wendoc.com/"}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid3146529\charrsid3146529 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b4600000068007400740070003a002f002f0064006f0063002e00770065006e0064006f0063002e0063006f006d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab0000}}}{\fldrslt {
+\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \cs17\f13\fs28\ul\cf2\insrsid3146529 \hich\af13\dbch\af13\loch\f13 https://doc.wen\hich\af13\dbch\af13\loch\f13 doc.com/}}}\sectd 
+\linex0\headery851\footery992\colsx425\endnhere\sectlinegrid312\sectspecifyl\sectrsid6493368\sftnbj {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \fs28\cf11\loch\af13\insrsid6493368\charrsid6493368 
+\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid11941893 \loch\af13\hich\af13\dbch\f13 \'d2\'da\'cd\'f2}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid1318786 \loch\af13\hich\af13\dbch\f13 \'ce\'c4\'b5\'b5\'d7\'ca\'c1\'cf\'a3\'ac
+\'b5\'c8\'c4\'e3\'c0\'b4}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid8674677 \loch\af13\hich\af13\dbch\f13 \'c3\'e2\'b7\'d1}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid1318786 \loch\af13\hich\af13\dbch\f13 \'cf\'c2\'d4\'d8}{
+\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \fs28\cf11\loch\af13\insrsid15098623\charrsid6493368 
+\par }}

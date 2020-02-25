@@ -12,7 +12,8 @@ from urllib import parse
 # import keyboard
 
 
-exam_bank = 'bank.doc'                          # 题库文件名
+# exam_bank = 'bank.doc'                          # 题库文件路径
+exam_bank = 'banks/UML.doc'
 
 def search(str):                                # 发起搜索(使用bing搜索)
     keyWord = {'q':str}
